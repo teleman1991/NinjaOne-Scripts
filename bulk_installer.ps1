@@ -1,4 +1,3 @@
-# Bulk Software Installation Script for NinjaOne
 # This script handles silent installation of multiple common software packages
 
 # Set error action preference
